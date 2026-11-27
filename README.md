@@ -21,7 +21,8 @@ The lead photograph shows the Shanghai Stock Exchange building in Lujiazui.
 Source: Wikimedia Commons, `File:Shanghai Stock Exchange 2.jpg`, by user
 钊钊, licensed **CC BY-SA 4.0** (attribution in the image caption and here).
 All 35 stories were verified as events that happened or were first reported
-on 27 November 2026.
+on 27 November 2026. The photograph itself is an illustration of the market
+story, taken in June 2022; the rally it illustrates happened on 27 November 2026.
 
 ## Entry
 
