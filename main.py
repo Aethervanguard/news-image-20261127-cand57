@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
-"""The Daily World — 27 November 2026.
+"""The Daily World — 27 November 2026 (photo front page, cand-57).
 
 Copies the entry image to the output directory. Stdlib only, no network,
-deterministic: the same bytes are written on every run.
+deterministic: the same bytes are written on every run. The image is a
+newspaper front page: headline, a real photograph of the Shanghai Stock
+Exchange, market numbers, and 35 verified stories from 27 November 2026.
 """
 import hashlib
 import os
